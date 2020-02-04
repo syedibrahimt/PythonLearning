@@ -1,3 +1,5 @@
+# List is the ordered collection of mutable data
+# Helper method include append, push and use my_list[index] to retreive data
 my_list = []
 print(my_list)
 my_list.append('a')
